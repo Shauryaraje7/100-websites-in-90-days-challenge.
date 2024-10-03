@@ -1,4 +1,4 @@
-#100 Websites in 90 Days Challenge
+100 Websites in 90 Days Challenge
 Welcome to the 100 Websites in 90 Days Challenge! 🚀
 
 Overview
