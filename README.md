@@ -37,5 +37,5 @@
 <h2>Contact</h2>
 <p>For any questions or feedback, feel free to reach out:</p>
 <ul>
-  <li>[Your Name] - [Your Contact Info]</li>
+  <li>Shauryaraje Yadav - shauryarajeyadav@gmail.com</li>
 </ul>
